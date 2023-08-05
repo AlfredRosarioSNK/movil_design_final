@@ -3,10 +3,13 @@ Ucateci Project contador app final
 
 Nota: para correrlo hay que poner los siguientes comandos en orden en la consola una vez se encuentre dentro de la carpeta del proyecto
 
-1- npm install
-2- set NODE_OPTIONS=--openssl-legacy-provider
-3- adb reverse tcp:8081 tcp:8081
-4- npx react-native run-android
+## 1- npm install
+
+## 2- set NODE_OPTIONS=--openssl-legacy-provider
+
+## 3- adb reverse tcp:8081 tcp:8081
+
+## 4- npx react-native run-android
 
 con todo eso deberia estar listo!
 
